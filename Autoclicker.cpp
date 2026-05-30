@@ -4,7 +4,7 @@
 using namespace std;
 
 void menu() {
-	cout << "Hit X to start the autoclicker and Y to stop the Autoclicker" << endl;
+	cout << "Hit X to start the autoclicker and Z to stop the Autoclicker" << endl;
 }
 
 void clicker() {
